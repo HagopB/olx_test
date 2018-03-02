@@ -10,7 +10,7 @@ pip install -r requirements.txt
 ```
 
 ### How do I see the development process ?
-You may follow all all development steps and questions in the dev_ notebook. (also in .html). However, as the file is quiet big, you would need to clone this repo to visualize the notebook.
+You may follow all development steps and questions in the dev_model.ipynb notebook. (also in .html). However, as the file is quiet big, you would need to clone this repo to visualize the notebook.
 
 ### How do I predict on own images ?
 you may have information on how to run ```predict.py``` by following:
