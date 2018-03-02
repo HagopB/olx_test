@@ -1,7 +1,7 @@
 # Developping and deploying keras models #
 
 ### What is this repository for? 
-Implementation of two simple keras models for automatic image quality assessment and product recognition in images (here, watch/clock recognition). The models are further exposed in an API (Flask, deployed on Heroku).
+Implementation of two simple keras models for automatic image quality assessment and product recognition in images (here, watch/clock recognition). The models are further exposed in an API (Flask).
 
 ### How do I get set up ?  
 Install all requirements. (N.B.: python 3.6.3)
